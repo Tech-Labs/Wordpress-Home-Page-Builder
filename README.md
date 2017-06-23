@@ -1,4 +1,5 @@
 # Tech Labs Home Page Builder wordpress Plugin
+[![alt text](https://tech-labs.co/img/logo.png "Tech Labs")](https://tech-labs.co)
 
 Easily build your home page with Tech Labs Home Page Builder in wordpress . Get it now!
 
@@ -21,7 +22,10 @@ Upload the Tech Labs Home Page Builder plugin to your wordpress, Activate it, th
  - Theming hpbaw
  - Add more widgets
 
+Author
+----
+[Ibrahim Mohamed Abotaleb](https://www.mrkindy.com) find me on GitHub [@mrkindy](https://github.com/mrkindy)
+
 License
 ----
-
 MIT
