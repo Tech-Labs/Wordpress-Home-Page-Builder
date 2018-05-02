@@ -1,5 +1,5 @@
 # Tech Labs Home Page Builder wordpress Plugin
-[![alt text](https://tech-labs.co/img/logo.png "Tech Labs")](https://tech-labs.co)
+[![alt text](https://ed.com.eg/images/logo.png "Enterprise Development")](https://ed.com.eg)
 
 Easily build your home page with Tech Labs Home Page Builder in wordpress . Get it now!
 
